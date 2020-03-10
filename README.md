@@ -12,7 +12,8 @@ For YAML 1.2 (which is a superset of JSON) you may have a look at [SnakeYAML Eng
 * Unicode support including UTF-8/UTF-16 input/output.
 * high-level API for serializing and deserializing native Java objects.
 * support for all types from the [YAML types repository](http://yaml.org/type/index.html).
-* relatively sensible error messages.
+* relatively sensible error messages.  
+* Used by [Java Minecraft](https://www.minecraft.net/en-us/store/minecraft-java-edition/)
 
 ## Info ##
  * [Changes](https://bitbucket.org/asomov/snakeyaml/wiki/Changes)
