@@ -1,4 +1,4 @@
-***The art of simplicity is a puzzle of complexity.***
+***The art of simplicity is a puzzle of complexity.*** _(They say)_
 
 ## Overview ##
 [YAML](http://yaml.org) is a data serialization format designed for human readability and interaction with scripting languages.
