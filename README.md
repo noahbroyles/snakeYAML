@@ -13,7 +13,7 @@ For YAML 1.2 (which is a superset of JSON) you may have a look at [SnakeYAML Eng
 * high-level API for serializing and deserializing native Java objects.
 * support for all types from the [YAML types repository](http://yaml.org/type/index.html).
 * relatively sensible error messages.  
-* Used by [Java Minecraft](https://www.minecraft.net/en-us/store/minecraft-java-edition/)
+* Used by [Java Minecraft](https://www.minecraft.net/en-us/store/minecraft-java-edition/) servers and server plugins
 
 ## Info ##
  * [Changes](https://bitbucket.org/asomov/snakeyaml/wiki/Changes)
